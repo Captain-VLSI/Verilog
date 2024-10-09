@@ -1,0 +1,150 @@
+# vsim work.dlatch.tb -l dlatch.log 
+# Start time: 22:02:13 on Oct 08,2024
+# ** Error (suppressible): (vsim-19) Failed to access library 'work.dlatch' at "work.dlatch".
+# No such file or directory. (errno = ENOENT)
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 3
+cd {C:\ALL VLSI\VERILOG\Verilog coding challenge\Day 1}
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+# Start time: 22:03:36 on Oct 08,2024
+# vlog -reportprogress 300 dlatch.v dlatchtb.v "+acc" 
+# -- Compiling module d_latch
+# -- Compiling module tb_latch
+# 
+# Top level modules:
+# 	tb_latch
+# End time: 22:03:36 on Oct 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.dlatchtb.v -l dlatch.log 
+# Start time: 22:02:13 on Oct 08,2024
+# ** Error (suppressible): (vsim-19) Failed to access library 'work.dlatchtb' at "work.dlatchtb".
+# No such file or directory. (errno = ENOENT)
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 3
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+# Start time: 22:04:34 on Oct 08,2024
+# vlog -reportprogress 300 dlatch.v dlatchtb.v "+acc" 
+# -- Compiling module d_latch
+# -- Compiling module tb_latch
+# 
+# Top level modules:
+# 	tb_latch
+# End time: 22:04:34 on Oct 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.dlatchtb -l dlatch.log 
+# Start time: 22:02:13 on Oct 08,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: (vopt-13130) Failed to find design unit dlatchtb.
+#         Searched libraries:
+#             work
+# Optimization failed
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 3
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+# Start time: 22:06:34 on Oct 08,2024
+# vlog -reportprogress 300 dlatch.v dlatchtb.v "+acc" 
+# -- Compiling module d_latch
+# -- Compiling module tb_latch
+# 
+# Top level modules:
+# 	tb_latch
+# End time: 22:06:35 on Oct 08,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vsim work.dlatchtb 
+# Start time: 22:02:13 on Oct 08,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: (vopt-13130) Failed to find design unit dlatchtb.
+#         Searched libraries:
+#             work
+# Optimization failed
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 3
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+# Start time: 22:19:26 on Oct 08,2024
+# vlog -reportprogress 300 dlatch.v dlatchtb.v "+acc" 
+# -- Compiling module d_latch
+# -- Compiling module tb_latch
+# 
+# Top level modules:
+# 	tb_latch
+# End time: 22:19:26 on Oct 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.dlatchtb 
+# Start time: 22:02:13 on Oct 08,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: (vopt-13130) Failed to find design unit dlatchtb.
+#         Searched libraries:
+#             work
+# Optimization failed
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 3
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+# Start time: 22:29:06 on Oct 08,2024
+# vlog -reportprogress 300 dlatch.v dlatchtb.v "+acc" 
+# -- Compiling module d_latch
+# -- Compiling module tb_latch
+# 
+# Top level modules:
+# 	tb_latch
+# End time: 22:29:06 on Oct 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.dlatchtb 
+# Start time: 22:02:13 on Oct 08,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: (vopt-13130) Failed to find design unit dlatchtb.
+#         Searched libraries:
+#             work
+# Optimization failed
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 3
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+# Start time: 22:29:42 on Oct 08,2024
+# vlog -reportprogress 300 dlatch.v dlatchtb.v "+acc" 
+# -- Compiling module d_latch
+# -- Compiling module tb_latch
+# 
+# Top level modules:
+# 	tb_latch
+# End time: 22:29:42 on Oct 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.tb_latch 
+# Start time: 22:02:13 on Oct 08,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading work.tb_latch(fast)
+# Loading work.d_latch(fast)
+# [0] en=0 d=0 q=0
+# [11] en=1 d=0 q=0
+# [18] en=0 d=0 q=0
+# [19] en=0 d=1 q=0
+# [20] en=1 d=1 q=0
+# [25] en=1 d=0 q=0
+# [27] en=0 d=0 q=0
+# [32] en=0 d=1 q=0
+# [33] en=1 d=1 q=0
+# [34] en=1 d=0 q=0
+# End time: 11:53:41 on Oct 09,2024, Elapsed time: 13:51:28
+# Errors: 6, Warnings: 0
