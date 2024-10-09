@@ -1,5 +1,5 @@
 vlib work
-vlog dlatch.v dlatchtb.v +acc
-vsim work.tb_latch -l 
+vlog dff.v dfftb.v +acc
+vsim work.tb_dff -l 
 add wave -r *
 run -all
